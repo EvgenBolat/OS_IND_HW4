@@ -80,7 +80,6 @@ void Customer() {
         exit(0);
       }
       usleep(20000);
-      printf("жду 2");
     }
     printf("\n%d: Оплатил и получил товар", my_number);
     putchar('\n');

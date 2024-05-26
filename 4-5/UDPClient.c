@@ -66,7 +66,6 @@ void Customer() {
         exit(1);
       }
       usleep(1000);
-      printf("шлю 0");
       }
     printf("\n%d: Продавец проводит пробивание товара.", my_number);
     if (recvfrom(sock, echoBuffer, RCVBUFSIZE, 0, (struct sockaddr *)&fromAddr,

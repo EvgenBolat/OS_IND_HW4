@@ -140,4 +140,4 @@
 662: Пришёл, жду своей очереди
 ```
 
-![](https://i.pinimg.com/564x/99/52/c4/9952c482a3c87c7b9d5ef17435b5f3e2.jpg)
+![](https://i.pinimg.com/564x/e0/3f/b0/e03fb08ff2e84aa211bcad6c5b487526.jpg)
